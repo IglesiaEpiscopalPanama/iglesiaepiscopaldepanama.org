@@ -501,9 +501,14 @@ img{
   font-size:1.3rem;
   color:var(--ink)
 }
+@media(min-width:1001px) and (max-width:1399px){
+  .hero-inner{
+    padding-block:4rem 3.5rem
+  }
+}
 @media(min-width:1400px){
   .hero-inner{
-    padding-block:6rem 5rem
+    padding-block:4.5rem 3.5rem
   }
 }
 @media(max-width:1000px){
@@ -850,4 +855,13 @@ main:focus { outline: none; }
 
 @media (min-width: 761px) {
   html[lang="en"] .hero h1 { font-size: clamp(2.8rem, 5.2vw, 4.6rem); }
+}
+
+.parish-link {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  min-height: 44px;
+  color: var(--blue);
+  font-size: .8rem;
 }
