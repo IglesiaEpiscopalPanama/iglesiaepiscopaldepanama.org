@@ -66,7 +66,7 @@ assets/img/
     san-lucas-02/                5 fotografías institucionales del interior
     liderazgo/                   6 fotografías institucionales
     vida-diocesana/              7 fotografías de celebraciones y comunidad
-  web/                          10 WebP fotográficos y 1 logo WebP sin pérdida
+  web/                          12 WebP fotográficos y 1 logo WebP sin pérdida
 ```
 
 El inventario completo, la correspondencia entre nombres originales y finales,

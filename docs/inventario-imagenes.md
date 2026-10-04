@@ -5,9 +5,10 @@
 ## Selección editorial
 
 - Hero desktop y móvil: `catedral-san-lucas/catedral-san-lucas-fachada-principal.jpg` (antes `IMG_20261003_072842.jpg`). Misma foto horizontal: torre y fachada completas, sin recortes; no hace falta una composición móvil diferente.
-- Quiénes somos: `san-lucas-02/catedral-san-lucas-interior-comunidad.jpg`. Sustituye el interior web eliminado.
+- Quiénes somos: `san-lucas-02/catedral-san-lucas-interior-procesion.jpg`. Selección final solicitada: presencia del clero y vida litúrgica.
 - Liderazgo: presentación textual conservada sin rediseño. Mejor respaldo: `liderazgo/clero-diocesano-03.jpg`. El encuentro de dos personas se conserva sin atribuir roles individuales no documentados.
-- Comunidad: `vida-diocesana/encuentro-comunitario-02.jpg` y `vida-diocesana/vida-diocesana-celebracion-02.jpg`. Se conservan los pies de foto y copys aprobados.
+- Comunidad: `liderazgo/clero-diocesano-grupo-05.jpg` (imagen 1) y `vida-diocesana/vida-diocesana-celebracion-02.jpg` (imagen 2). Se conservan los pies de foto y copys aprobados.
+- Respaldo sin uso en la home: `liderazgo-encuentro-institucional.jpg`, `encuentro-comunitario-02.jpg` y `reunion-comunitaria-01.jpg`.
 - 4 usar, 25 respaldo, 5 no usar. «No usar» significa excluida del sitio, conservada en archivo; no se borran las fotos propias redundantes.
 
 ## catedral-san-lucas — 16 imágenes
@@ -40,10 +41,10 @@ Carpeta: `assets/img/iglesia-episcopal/san-lucas-02/`
 | Nombre anterior → actual | Dimensiones | Orientación | Bytes | Descripción objetiva | Procedencia probable | Uso sugerido | Decisión / motivo |
 |---|---|---|---:|---|---|---|---|
 | 626449065_18556670014053081_5084294089189867489_n.jpg → **catedral-san-lucas-interior-asamblea.jpg** | 1440 × 814 | horizontal | 174077 | Asistentes de pie en bancas, arcos y altar | Instagram oficial | Quiénes somos / historia / presencia | **respaldo**: Alternativa de vida litúrgica |
-| 626723804_18556670092053081_6031592452908874287_n.jpg → **catedral-san-lucas-interior-procesion.jpg** | 1440 × 814 | horizontal | 198035 | Procesión entre las bancas hacia el altar | Instagram oficial | Quiénes somos / historia / presencia | **respaldo**: Alternativa de vida litúrgica |
+| 626723804_18556670092053081_6031592452908874287_n.jpg → **catedral-san-lucas-interior-procesion.jpg** | 1440 × 814 | horizontal | 198035 | Procesión entre las bancas hacia el altar | Instagram oficial | Quiénes somos / historia / presencia | **usar**: Selección final solicitada para Quiénes somos: procesión y vida litúrgica |
 | 627015037_18556670722053081_8310266187939695882_n.jpg → **catedral-san-lucas-interior-liturgia.jpg** | 1440 × 814 | horizontal | 117574 | Celebrantes alrededor del altar durante la liturgia | Instagram oficial | Quiénes somos / historia / presencia | **respaldo**: Alternativa de vida litúrgica |
 | 628136157_1308438154645589_8403246888726780219_n.jpg → **catedral-san-lucas-interior-estandartes.jpg** | 1280 × 720 | horizontal | 138388 | Asistentes con estandartes entre las bancas | Facebook oficial | Quiénes somos / historia / presencia | **respaldo**: Alternativa de vida litúrgica |
-| 771892358_18614615908053081_8298882562867333621_n.jpg → **catedral-san-lucas-interior-comunidad.jpg** | 3024 × 2268 | horizontal | 529294 | Interior con arcos, luminarias, bancas y asistentes de pie | Instagram oficial | Quiénes somos / historia / presencia | **usar**: Sustituye el interior web eliminado; muestra arquitectura y comunidad |
+| 771892358_18614615908053081_8298882562867333621_n.jpg → **catedral-san-lucas-interior-comunidad.jpg** | 3024 × 2268 | horizontal | 529294 | Interior con arcos, luminarias, bancas y asistentes de pie | Instagram oficial | Quiénes somos / historia / presencia | **respaldo**: Alternativa de vida litúrgica |
 
 ## liderazgo — 6 imágenes
 
@@ -52,7 +53,7 @@ Carpeta: `assets/img/iglesia-episcopal/liderazgo/`
 | Nombre anterior → actual | Dimensiones | Orientación | Bytes | Descripción objetiva | Procedencia probable | Uso sugerido | Decisión / motivo |
 |---|---|---|---:|---|---|---|---|
 | 631571735_1311892790966792_276013069756403984_n.jpg → **clero-diocesano-grupo-04.jpg** | 2048 × 1536 | horizontal | 431308 | Grupo amplio de clero con vestiduras en un recinto deportivo | Facebook oficial | Liderazgo / clero institucional | **respaldo**: Grupo institucional amplio; fondo deportivo menos sobrio |
-| 631939145_1311894000966671_6856171340860385978_n.jpg → **clero-diocesano-grupo-05.jpg** | 2048 × 1536 | horizontal | 378703 | Grupo de clero en recinto deportivo; teléfono visible en primer plano | Facebook oficial | Liderazgo / clero institucional | **respaldo**: Respaldo documental; teléfono en primer plano |
+| 631939145_1311894000966671_6856171340860385978_n.jpg → **clero-diocesano-grupo-05.jpg** | 2048 × 1536 | horizontal | 378703 | Grupo de clero en recinto deportivo; teléfono visible en primer plano | Facebook oficial | Servicio a la comunidad: imagen 1 | **usar**: Selección final solicitada: presencia del clero en la portada; encuadre completo |
 | 680219048_18581680249053081_832038721497099236_n.jpg → **liderazgo-encuentro-institucional.jpg** | 695 × 926 | vertical | 85141 | Dos personas, una con vestiduras litúrgicas, junto a una entrada | Instagram oficial | Liderazgo / clero institucional | **respaldo**: Material institucional validado por el usuario; no se vinculan personas a roles individuales sin identificación documental |
 | clero-diocesano-01.jpg → **clero-diocesano-01.jpg** | 960 × 720 | horizontal | 91823 | Grupo de clero con vestiduras frente a una fachada | Facebook oficial | Liderazgo / clero institucional | **respaldo**: Se conserva como alternativa; sustituido en la galería por vida diocesana |
 | clero-diocesano-02.jpg → **clero-diocesano-02.jpg** | 1440 × 962 | horizontal | 270612 | Grupo con vestiduras frente a una fachada de piedra y placa | Instagram oficial | Liderazgo / clero institucional | **respaldo**: Alternativa de grupo; no atribuir lugar o evento |
@@ -69,12 +70,12 @@ Carpeta: `assets/img/iglesia-episcopal/vida-diocesana/`
 | CLP-0930.jpg.jpeg → **vida-diocesana-celebracion-03.jpg** | 1800 × 1200 | horizontal | 1666878 | Celebrante con vestiduras en un ambón junto a flores y banderas | archivo institucional | Vida diocesana / servicio / comunidad | **respaldo**: Alternativa de celebración; menos representativa de comunidad |
 | celebracion-liturgica-01.jpg → **celebracion-liturgica-01.jpg** | 1280 × 853 | horizontal | 84389 | Celebrante en ambón y asistentes en primer plano | Facebook oficial | Vida diocesana / servicio / comunidad | **respaldo**: Alternativa de vida de fe |
 | encuentro-comunitario-01.jpg → **encuentro-comunitario-01.jpg** | 2048 × 1536 | horizontal | 437219 | Grupo reunido en sala con una persona de pie dirigiéndose al grupo | Facebook oficial | Vida diocesana / servicio / comunidad | **respaldo**: Alternativa del encuentro |
-| encuentro-comunitario-02.jpg → **encuentro-comunitario-02.jpg** | 4032 × 3024 | horizontal | 696826 | Personas sentadas en círculo escuchan a una persona de pie | Instagram oficial | Vida diocesana / servicio / comunidad | **usar**: Se mantiene la imagen actual: encuadre limpio y comunidad visible |
+| encuentro-comunitario-02.jpg → **encuentro-comunitario-02.jpg** | 4032 × 3024 | horizontal | 696826 | Personas sentadas en círculo escuchan a una persona de pie | Instagram oficial | Vida diocesana / servicio / comunidad | **respaldo**: Conservada como respaldo; retirada de la home por selección final solicitada |
 | reunion-comunitaria-01.jpg → **reunion-comunitaria-01.jpg** | 1280 × 957 | horizontal | 142555 | Personas sentadas alrededor de mesas en una sala | Facebook oficial | Vida diocesana / servicio / comunidad | **respaldo**: Alternativa para formación y reuniones |
 
-## WebP de publicación
+## WebP locales de publicación y respaldo
 
-Calidad 86, Lanczos, sin ampliar ni recortar. Originales intactos. Hero: `srcset` de 320/480/768/1280 px; dimensión intrínseca 4:3, prioridad alta. Resto: carga diferida, dimensiones explícitas. Sin cambios de CSS ni layout.
+Selección final: solo se regeneran los WebP cuyo original cambia. Las versiones anteriores de encuentro comunitario se conservan como respaldo sin referencia en la home. Calidad 86, Lanczos, sin ampliar ni recortar. Originales intactos. Hero: `srcset` de 320/480/768/1280 px; dimensión intrínseca 4:3, prioridad alta. Resto: carga diferida, dimensiones explícitas. Sin cambios de CSS ni layout.
 
 | Archivo | Dimensiones | Bytes | Fuente |
 |---|---|---:|---|
@@ -82,8 +83,10 @@ Calidad 86, Lanczos, sin ampliar ni recortar. Originales intactos. Hero: `srcset
 | assets/img/web/catedral-san-lucas-fachada-320.webp | 320 × 240 | 21966 | catedral-san-lucas/catedral-san-lucas-fachada-principal.jpg |
 | assets/img/web/catedral-san-lucas-fachada-480.webp | 480 × 360 | 45662 | catedral-san-lucas/catedral-san-lucas-fachada-principal.jpg |
 | assets/img/web/catedral-san-lucas-fachada-768.webp | 768 × 576 | 113108 | catedral-san-lucas/catedral-san-lucas-fachada-principal.jpg |
-| assets/img/web/catedral-san-lucas-interior-1280.webp | 1280 × 960 | 141328 | san-lucas-02/catedral-san-lucas-interior-comunidad.jpg |
-| assets/img/web/catedral-san-lucas-interior-640.webp | 640 × 480 | 50312 | san-lucas-02/catedral-san-lucas-interior-comunidad.jpg |
+| assets/img/web/catedral-san-lucas-interior-1280.webp | 1280 × 724 | 160816 | san-lucas-02/catedral-san-lucas-interior-procesion.jpg |
+| assets/img/web/catedral-san-lucas-interior-640.webp | 640 × 362 | 53302 | san-lucas-02/catedral-san-lucas-interior-procesion.jpg |
+| assets/img/web/clero-diocesano-grupo-05-1280.webp | 1280 × 960 | 165264 | liderazgo/clero-diocesano-grupo-05.jpg |
+| assets/img/web/clero-diocesano-grupo-05-640.webp | 640 × 480 | 57572 | liderazgo/clero-diocesano-grupo-05.jpg |
 | assets/img/web/encuentro-comunitario-1280.webp | 1280 × 960 | 129776 | vida-diocesana/encuentro-comunitario-02.jpg |
 | assets/img/web/encuentro-comunitario-640.webp | 640 × 480 | 50310 | vida-diocesana/encuentro-comunitario-02.jpg |
 | assets/img/web/logo-iglesia-episcopal.webp | 423 × 590 | 245680 | assets/img/logo-iglesia-episcopal.png (sin pérdida) |
@@ -135,7 +138,7 @@ No se reintroducen `catedral-san-lucas-2-768x512.jpg`, `catedral-san-lucas-4.jpg
 
 ## Trazabilidad histórica conservada
 
-Nombres anteriores a esta tarea de los siete archivos ya semánticos; corresponden al inventario del commit `f95cc84`. Sus nombres actuales y bytes se mantienen.
+Nombres anteriores a esta tarea de los siete archivos ya semánticos, del inventario `f95cc84`. Sus nombres actuales y bytes se mantienen.
 
 | Nombre histórico | Ruta actual |
 |---|---|

@@ -247,9 +247,9 @@
       "bytes": 198035,
       "description": "Procesión entre las bancas hacia el altar",
       "origin": "Instagram oficial",
-      "decision": "respaldo",
+      "decision": "usar",
       "use": "Quiénes somos / historia / presencia",
-      "reason": "Alternativa de vida litúrgica",
+      "reason": "Selección final solicitada para Quiénes somos: procesión y vida litúrgica",
       "sha256": "72e85b869588f479710138dd5e6c6397cb5df2a877dd6e561eef0c3096376fd1"
     },
     {
@@ -289,9 +289,9 @@
       "bytes": 529294,
       "description": "Interior con arcos, luminarias, bancas y asistentes de pie",
       "origin": "Instagram oficial",
-      "decision": "usar",
+      "decision": "respaldo",
       "use": "Quiénes somos / historia / presencia",
-      "reason": "Sustituye el interior web eliminado; muestra arquitectura y comunidad",
+      "reason": "Alternativa de vida litúrgica",
       "sha256": "12fad7ac985e041587e2b805612fbafeabe0015ebbd06b8ff95a9c4cea4fce8c"
     },
     {
@@ -317,9 +317,9 @@
       "bytes": 378703,
       "description": "Grupo de clero en recinto deportivo; teléfono visible en primer plano",
       "origin": "Facebook oficial",
-      "decision": "respaldo",
-      "use": "Liderazgo / clero institucional",
-      "reason": "Respaldo documental; teléfono en primer plano",
+      "decision": "usar",
+      "use": "Servicio a la comunidad: imagen 1",
+      "reason": "Selección final solicitada: presencia del clero en la portada; encuadre completo",
       "sha256": "17bffa686bf07ea0965f8947f397c365c116f35b005dc0bbccb815086e4bef9e"
     },
     {
@@ -457,9 +457,9 @@
       "bytes": 696826,
       "description": "Personas sentadas en círculo escuchan a una persona de pie",
       "origin": "Instagram oficial",
-      "decision": "usar",
+      "decision": "respaldo",
       "use": "Vida diocesana / servicio / comunidad",
-      "reason": "Se mantiene la imagen actual: encuadre limpio y comunidad visible",
+      "reason": "Conservada como respaldo; retirada de la home por selección final solicitada",
       "sha256": "c01b6b70ead94d7558ca27fec92451aec48b31a868e344bc5739a307589b187f"
     },
     {
@@ -509,16 +509,30 @@
     {
       "name": "assets/img/web/catedral-san-lucas-interior-640.webp",
       "width": 640,
-      "height": 480,
-      "bytes": 50312,
-      "source": "san-lucas-02/catedral-san-lucas-interior-comunidad.jpg"
+      "height": 362,
+      "bytes": 53302,
+      "source": "san-lucas-02/catedral-san-lucas-interior-procesion.jpg"
     },
     {
       "name": "assets/img/web/catedral-san-lucas-interior-1280.webp",
       "width": 1280,
+      "height": 724,
+      "bytes": 160816,
+      "source": "san-lucas-02/catedral-san-lucas-interior-procesion.jpg"
+    },
+    {
+      "name": "assets/img/web/clero-diocesano-grupo-05-640.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 57572,
+      "source": "liderazgo/clero-diocesano-grupo-05.jpg"
+    },
+    {
+      "name": "assets/img/web/clero-diocesano-grupo-05-1280.webp",
+      "width": 1280,
       "height": 960,
-      "bytes": 141328,
-      "source": "san-lucas-02/catedral-san-lucas-interior-comunidad.jpg"
+      "bytes": 165264,
+      "source": "liderazgo/clero-diocesano-grupo-05.jpg"
     },
     {
       "name": "assets/img/web/vida-diocesana-celebracion-640.webp",
