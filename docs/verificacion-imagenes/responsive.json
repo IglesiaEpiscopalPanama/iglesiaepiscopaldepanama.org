@@ -1,0 +1,588 @@
+{
+  "results": [
+    {
+      "language": "es",
+      "viewport": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "src": "assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 36,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "width": 548,
+          "height": 411,
+          "renderedWidth": 525.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 548,
+          "height": 411,
+          "renderedWidth": 548,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 564,
+          "height": 422,
+          "renderedWidth": 564,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 564,
+          "height": 376,
+          "renderedWidth": 564,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333597778659263
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "es",
+      "viewport": 768,
+      "overflow": false,
+      "images": [
+        {
+          "src": "assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 36,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-480.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 321.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 353,
+          "height": 235,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333765728369438
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "es",
+      "viewport": 390,
+      "overflow": false,
+      "images": [
+        {
+          "src": "assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 27,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-480.webp",
+          "width": 349,
+          "height": 262,
+          "renderedWidth": 327.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 350,
+          "height": 262,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 350,
+          "height": 262,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 350,
+          "height": 233,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333757799567045
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "es",
+      "viewport": 360,
+      "overflow": false,
+      "images": [
+        {
+          "src": "assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 23,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-320.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 305.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 320,
+          "height": 213,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333788395904438
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "es",
+      "viewport": 320,
+      "overflow": false,
+      "images": [
+        {
+          "src": "assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 23,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-320.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 265.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 279,
+          "height": 186,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333857030636291
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "en",
+      "viewport": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "src": "../assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 36,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "width": 548,
+          "height": 411,
+          "renderedWidth": 525.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 548,
+          "height": 411,
+          "renderedWidth": 548,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 564,
+          "height": 422,
+          "renderedWidth": 564,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 564,
+          "height": 376,
+          "renderedWidth": 564,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333597778659263
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "en",
+      "viewport": 768,
+      "overflow": false,
+      "images": [
+        {
+          "src": "../assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 36,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-480.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 321.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 353,
+          "height": 264,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 353,
+          "height": 235,
+          "renderedWidth": 344,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333765728369438
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "en",
+      "viewport": 390,
+      "overflow": false,
+      "images": [
+        {
+          "src": "../assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 27,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-480.webp",
+          "width": 349,
+          "height": 262,
+          "renderedWidth": 327.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 350,
+          "height": 262,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 350,
+          "height": 262,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 350,
+          "height": 233,
+          "renderedWidth": 350,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333757799567045
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "en",
+      "viewport": 360,
+      "overflow": false,
+      "images": [
+        {
+          "src": "../assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 23,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-320.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 305.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 320,
+          "height": 240,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 320,
+          "height": 213,
+          "renderedWidth": 328,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333788395904438
+      },
+      "errors": [],
+      "remoteRequests": []
+    },
+    {
+      "language": "en",
+      "viewport": 320,
+      "overflow": false,
+      "images": [
+        {
+          "src": "../assets/img/web/logo-iglesia-episcopal.webp",
+          "currentSrc": "/assets/img/web/logo-iglesia-episcopal.webp",
+          "width": 423,
+          "height": 590,
+          "renderedWidth": 23,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-fachada-768.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-fachada-320.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 265.21875,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/catedral-san-lucas-interior-1280.webp",
+          "currentSrc": "/assets/img/web/catedral-san-lucas-interior-640.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/encuentro-comunitario-1280.webp",
+          "currentSrc": "/assets/img/web/encuentro-comunitario-640.webp",
+          "width": 279,
+          "height": 209,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        },
+        {
+          "src": "../assets/img/web/vida-diocesana-celebracion-1280.webp",
+          "currentSrc": "/assets/img/web/vida-diocesana-celebracion-640.webp",
+          "width": 279,
+          "height": 186,
+          "renderedWidth": 288,
+          "loaded": true,
+          "dimensions": true
+        }
+      ],
+      "hero": {
+        "objectFit": "contain",
+        "ratio": 1.3333857030636291
+      },
+      "errors": [],
+      "remoteRequests": []
+    }
+  ],
+  "retina": {
+    "resource": "/assets/img/web/catedral-san-lucas-fachada-768.webp",
+    "width": 350
+  }
+}

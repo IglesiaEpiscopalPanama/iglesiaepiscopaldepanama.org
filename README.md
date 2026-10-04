@@ -62,15 +62,16 @@ configuración del dominio para editar el sitio.
 assets/img/
   logo-iglesia-episcopal.png       Logo original intacto
   iglesia-episcopal/
-    catedral-san-lucas/           4 originales; nombres semánticos conservados
-    liderazgo/                   3 fotografías de clero y 1 captura de referencia
-    vida-diocesana/               4 fotografías de reuniones y vida comunitaria
-  web/                           8 WebP fotográficos y 1 logo WebP sin pérdida
+    catedral-san-lucas/           16 fotografías propias de fachada y patrimonio
+    san-lucas-02/                5 fotografías institucionales del interior
+    liderazgo/                   6 fotografías institucionales
+    vida-diocesana/              7 fotografías de celebraciones y comunidad
+  web/                          10 WebP fotográficos y 1 logo WebP sin pérdida
 ```
 
 El inventario completo, la correspondencia entre nombres originales y finales,
 los usos y los hashes SHA-256 están en `docs/inventario-imagenes.md`.
-La captura de referencia de liderazgo no se muestra en las páginas. No se
+La captura antigua de liderazgo y las cuatro fotos web depuradas no se conservan. No se
 identifican personas a partir de su apariencia ni se inventan fechas de fotografías.
 La Catedral San Lucas se presenta como referencia patrimonial de la Diócesis;
 los datos de contacto corresponden únicamente a la oficina diocesana.
@@ -80,10 +81,15 @@ Las fotografías del sitio usan `srcset` y `sizes`, dimensiones explícitas y
 carga diferida. Se mantiene el encuadre completo, sin recortar personas.
 
 Para añadir imágenes, conserve el original y genere copias web proporcionales
-sin ampliar su resolución. No enlace imágenes remotas. La fachada actual tiene
-768 × 512 px: conviene sustituir la copia web por una procedente de un original
-de mayor resolución cuando esté disponible. Confirme los permisos de uso y el
-contexto de las fotografías con la Diócesis antes de publicarlas.
+sin ampliar su resolución. No enlace imágenes remotas. La fachada propia actual
+tiene 4064 × 3048 px y se publica en versiones de 320, 480, 768 y 1280 px.
+La misma composición completa se usa en desktop y móvil. El usuario confirmó
+el carácter institucional de las fotografías de las redes oficiales.
 
 El sitio no requiere las herramientas usadas para preparar las imágenes;
 las copias optimizadas ya están incluidas en el repositorio.
+
+La curación puede reproducirse con `python docs/curate_images.py` (Pillow).
+La verificación usa `node docs/verify_images.cjs` (Playwright y Edge), con
+`PLAYWRIGHT_MODULE` si Playwright está instalado fuera del proyecto.
+Resultados y capturas: `docs/verificacion-imagenes/`.
